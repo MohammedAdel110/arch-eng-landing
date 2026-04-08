@@ -60,7 +60,7 @@ arch_eng_landing/
 All images are placeholders and clearly labeled:
 
 <!-- Replace this image with your own architectural render -->
-<img src="assets/images/hero-placeholder.jpg" alt="Hero Image">
+<img src="C:\Users\Dell\OneDrive\Pictures\Screenshots 1\Screenshot 2026-04-08 120421.png" alt="Hero Image">
 
 For portfolio:
 
