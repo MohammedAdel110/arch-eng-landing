@@ -1,7 +1,6 @@
 # Aura Architecture | High-End Landing Page
 
-![Project Preview](./preview.png)
-
+![Project Preview](./arch_eng_landing/preview.png)
 ## Overview
 Aura Architecture is a modern, premium landing page designed for architectural engineering firms. It is built with high-end aesthetics, providing a luxurious experience through minimalist design, masonry layouts, and subtle scroll animations.
 
